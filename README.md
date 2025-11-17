@@ -41,7 +41,7 @@ Requires pillow / pyinstaller if you want to rebuild.
 
 ### ⚠️ Disclaimer
 
-This tool was created for **personal privacy and peaceful conflict avoidance** — not malicious use.
+This tool was created for **personal privacy and peaceful conflict avoidance**
 
 Please don’t use it to:
 
