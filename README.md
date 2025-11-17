@@ -12,15 +12,6 @@ Pouncer launches automatically at system startup and displays a **fake BSOD scre
 * If Alt + F4 *isn’t* pressed within the configured timeout, it triggers a **real system crash / forced BSOD**
 * Designed as a lightweight “digital door lock” when you’re unable to use a real login password
 
-### 📦 Versions
-
-| Version     | Description                                        | Language           |
-| ----------- | -------------------------------------------------- | ------------------ |
-| Latest      | Fake BSOD with Alt+F4 escape + real crash fallback | Python             |
-| Old version | Locked screen and required a password prompt       | Delphi / VCL Forms |
-
-Older version may or may not be included in the repo — can’t remember 😅
-
 ### 🧠 Why it exists
 
 My stepmom forced me to remove my Windows password so she could randomly inspect my computer.
